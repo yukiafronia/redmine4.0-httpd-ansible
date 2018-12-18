@@ -36,7 +36,7 @@ yum install -y ansible git
 ### playbookのダウンロード
 
 ```
-git clone https://github.com/farend/redmine-centos-ansible.git
+git clone https://github.com/yukiafronia/redmine4.0-httpd-ansible.git
 ```
 
 ### PostgreSQLに設定するパスワードの変更
