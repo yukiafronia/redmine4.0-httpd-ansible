@@ -48,7 +48,7 @@ git clone https://github.com/farend/redmine-centos-ansible.git
 下記コマンドを実行してください。Redmineの自動インストールが開始されます。
 
 ```
-cd redmine-centos-ansible
+cd redmine4.0-httpd-ansible
 ansible-playbook -i hosts site.yml
 ```
 
